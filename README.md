@@ -1,5 +1,4 @@
 # TwitterBot-WonhoBot
-# Project Title
 
 A autotweeting bot that randomly chooses entries from a database (AWS- DynamoDB), this can be used for a variety of purposes.
 Using python Tweepy API 
